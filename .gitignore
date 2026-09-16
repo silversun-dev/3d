@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+# Salidas de trabajo
+*.stl
+fichas.json
