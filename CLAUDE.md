@@ -16,4 +16,5 @@ Este repo tiene un subinventario en `INVENTARIO.md` (raíz). Forma parte de una 
    Luego cambia el estado a "✅ RELLENADO".
 3. **Al terminar la sesión** (o tras cambios relevantes): actualiza `INVENTARIO.md` — tareas hechas fuera, nuevas pendientes, % recalculado, fecha, y una fila en el historial. Haz commit junto con el resto del trabajo.
 4. No edites el repo `inventario` desde aquí: el maestro se sincroniza cuando el usuario pida "actualizar la situación" desde ese repo.
+5. **Guardado = subido a GitHub.** Al terminar la sesión, o si el usuario dice que va a cerrar el chat, haz commit y `git push` a la **rama por defecto** del repo (fusiona tu rama en ella). Lo que solo está en local o en otra rama NO cuenta como guardado. Si no puedes hacer push, díselo claramente al usuario.
 <!-- INVENTARIO:FIN -->
